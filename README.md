@@ -16,6 +16,11 @@ Chmod +x install.sh
 
 ./install.sh
 
+Run 
+-----
+
+msfconsole
+
 ===================
 
 One line command
