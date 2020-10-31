@@ -21,9 +21,10 @@ Run
 
 msfconsole
 
-===================
+
 
 One line command
+----------------
 
 pkg update -y && pkg upgrade -y && git clone https://github.com/RIP4NEON/Metasploit-V6 && cd Metasploit-V6 && chmod +x install.sh && ./install.sh && msfconsole
 
