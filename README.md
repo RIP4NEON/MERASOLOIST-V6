@@ -1,4 +1,4 @@
-# Metasploit-FrameworkV6
+# Metasploit-Framework_V6
 
 ____________________________________
 YouTube 
@@ -11,7 +11,7 @@ Termux and Linux
 Installation
 ------------
 
-git clone https://github.com/RIP4NEON/Metasploit-FrameworkV6
+git clone https://github.com/RIP4NEON/Metasploit-Framework_V6.git
 
 chmod +x install.sh
 
@@ -27,6 +27,6 @@ msfconsole
 One line command
 ----------------
 
-pkg update -y && pkg upgrade -y && git clone https://github.com/RIP4NEON/Metasploit-V6 && cd Metasploit-FrameworkV6 && chmod +x install.sh && ./install.sh && msfconsole
+pkg update -y && pkg upgrade -y && git clone https://github.com/RIP4NEON/Metasploit-Framework_V6.git && cd Metasploit-Framework_V6 && chmod +x install.sh && ./install.sh && msfconsole
 
 ===================
