@@ -20,6 +20,6 @@ Chmod +x install.sh
 
 One line command
 
-git clone https://github.com/RIP4NEON/MERASOLOIST-V6.git && chmod +x install.sh && ./install.sh
+git clone https://github.com/RIP4NEON/MERASOLOIST-V6.git && MERASOLOIST-V6 && chmod +x install.sh && ./install.sh
 
 ===================
