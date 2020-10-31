@@ -13,7 +13,7 @@ Installation
 
 git clone https://github.com/RIP4NEON/Metasploit-V6
 
-Chmod +x install.sh
+chmod +x install.sh
 
 ./install.sh
 
