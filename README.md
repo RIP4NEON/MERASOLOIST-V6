@@ -1,4 +1,4 @@
-# METSOLOIST-V6
+# Metasploit-V6
 
 ____________________________________
 YouTube 
@@ -10,7 +10,7 @@ Termux and Linux
 
 Installation
 
-git clone https://github.com/RIP4NEON/MERASOLOIST-V6.git
+git clone https://github.com/RIP4NEON/Metasploit-V6
 
 Chmod +x install.sh
 
@@ -20,6 +20,6 @@ Chmod +x install.sh
 
 One line command
 
-git clone https://github.com/RIP4NEON/MERASOLOIST-V6.git && MERASOLOIST-V6 && chmod +x install.sh && ./install.sh
+git clone https://github.com/RIP4NEON/Metasploit-V6 && MERASOLOIST-V6 && chmod +x install.sh && ./install.sh
 
 ===================
