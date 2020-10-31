@@ -20,6 +20,6 @@ Chmod +x install.sh
 
 One line command
 
-git clone https://github.com/RIP4NEON/Metasploit-V6 && MERASOLOIST-V6 && chmod +x install.sh && ./install.sh
+pkg update && pkg upgrade && git clone https://github.com/RIP4NEON/Metasploit-V6 && MERASOLOIST-V6 && chmod +x install.sh && ./install.sh
 
 ===================
