@@ -1,4 +1,4 @@
-# Metasploit-V6
+# Metasploit-FrameworkV6
 
 ____________________________________
 YouTube 
@@ -11,7 +11,7 @@ Termux and Linux
 Installation
 ------------
 
-git clone https://github.com/RIP4NEON/Metasploit-V6
+git clone https://github.com/RIP4NEON/Metasploit-FrameworkV6
 
 chmod +x install.sh
 
