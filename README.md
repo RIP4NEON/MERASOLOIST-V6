@@ -20,6 +20,6 @@ Chmod +x install.sh
 
 One line command
 
-pkg update -y && pkg upgrade -y && git clone https://github.com/RIP4NEON/Metasploit-V6 && Metasploit-v6 && chmod +x install.sh && ./install.sh
+pkg update -y && pkg upgrade -y && git clone https://github.com/RIP4NEON/Metasploit-V6 && cd Metasploit-V6 && chmod +x install.sh && ./install.sh
 
 ===================
